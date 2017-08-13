@@ -1,2 +1,2 @@
 # Cryptography
-Classroom Assignments on important Encryption Algorithms
+Classroom Assignments on Important Encryption Algorithms
